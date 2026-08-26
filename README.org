@@ -1,5 +1,5 @@
 * emacs-extras
 ** typescript
 #+begin_src shell
-
+curl -fsSL https://raw.githubusercontent.com/chubbyhippo/emacs-extras/refs/heads/main/typescript/setup.sh | sh
 #+end_src
