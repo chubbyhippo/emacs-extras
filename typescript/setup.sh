@@ -16,4 +16,4 @@
 ;; SPDX-License-Identifier: GPL-3.0-or-later
 
 mise use node@lts -g
-npm install -g typescript typescript-language-server tsx ts-node
+npm install -g typescript typescript-language-server tsx ts-node eslint prettier
